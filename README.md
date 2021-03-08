@@ -10,16 +10,10 @@ My Portfolio Page contains:
 
 Link to my LinkedIn Profile
 Link to my GitHub Profile
-Professional Picture
 
-My portfolio with GitHub respository Links and Deployed Website Links
+# Technologies Used
 
-https://github.com/Usman3278/HomeWorkTwo.
-https://usman3278.github.io/HomeWorkTwo./
-
-
-# Programming Languages Used
-
-HTML
-CSS
+* CSS3
+* Bootstrap 4
+* HTML5
 
